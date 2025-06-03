@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "399603907387",
+    "firebase_url": "https://test-api-cb458-default-rtdb.firebaseio.com",
+    "project_id": "test-api-cb458",
+    "storage_bucket": "test-api-cb458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399603907387:android:9e772abfa96333d4b3951e",
+        "android_client_info": {
+          "package_name": "com.example.applist_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBIFSNYl3whrCmYBkejnBW1bKVkA2A7yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
